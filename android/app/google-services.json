@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600695869461",
+    "project_id": "firbase-add-names",
+    "storage_bucket": "firbase-add-names.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600695869461:android:992e352e1fc734cb4d3e1c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600695869461-s9krbkibj1fhjqisco5k4d349kvqtemb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnx8DV6r7V8Opy7upaQuGJFLXTS9rb_Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600695869461-s9krbkibj1fhjqisco5k4d349kvqtemb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
